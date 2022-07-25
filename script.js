@@ -1,5 +1,5 @@
 const sectionCenter = document.querySelector('.section-center')
-const btnContainer = document.querySelector('.btn-container')
+const btnContainer = document.querySelector('.btn-container');
 
 
 
@@ -103,4 +103,4 @@ function displayMenuItems(menuItem) {
 
 
 
-menuThings()
+menuThings();
